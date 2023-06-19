@@ -6,13 +6,15 @@ Net Salary Calculator
 This JavaScript program calculates the net salary of an individual based on their basic salary and benefits. It takes into account tax deductions, NHIF deductions, and NSSF contributions.
 
 # Project Setup
-To use this program:
+Download or clone the project repository.
 
-# Clone or download the source code.
-Ensure you have a JavaScript runtime environment installed.
-Open the program in your preferred code editor.
-Run the program and follow the prompts to enter the basic salary and benefits.
-The program will calculate the net salary and display the results.
+Open the script.html file in a web browser.
+
+The web page will display the Net Salary Calculator.
+
+Enter the basic salary and benefits when prompted.
+
+The calculator will calculate the net salary based on the input and display the details on the webpage.
 # Author  
 MADE BY PIUS MUKUNA MWANGI
 # License

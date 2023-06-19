@@ -1,4 +1,14 @@
-// Function to calculate NHIF deductions based on monthly gross salary
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Net Salary Calculator</title>
+</head>
+<body>
+  <h1>Net Salary Calculator</h1>
+
+<script>
+// Function to calculate
 function NHIFDeductions(Salary) {
     if (Salary <= 5999) {
       return 150;
@@ -122,6 +132,7 @@ document.write("<p><strong>Taxable Pay:</strong> " + salaryDetails.taxable + "</
 document.write("<p><strong>Tax Deductions:</strong> " + salaryDetails.taxDeductions + "</p>");
 document.write("<p><strong>NHIF Deductions:</strong> " + salaryDetails.nhifDeductions + "</p>");
 document.write("<p><strong>Net Salary:</strong> " + salaryDetails.netSalary + "</p>");
+</script>
 
-
-
+</body>
+</html>
